@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-router-dom": "^7.16.0",
+    "saas": "^1.0.0"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.100.0"
+  }
+}
